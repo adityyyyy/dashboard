@@ -1,0 +1,4 @@
+#mullvad
+acc-no=6376306377951976
+sudo apt purge mullvad-vpn
+sudo rm /etc/apt/sources.list.d/mullvad.list
